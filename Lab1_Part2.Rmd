@@ -1,0 +1,37 @@
+---
+title: "Lab 1 Part 2"
+author: "YOUR NAME HERE"
+output: html_document
+---
+
+## PART TWO: ANALYSIS
+
+This week, in lieu of a data analysis, you will be learning a little about statistical computing.  You will need to Google around to find answers to the following questions.  I encourage you to work together!
+
+### Computing languages in statistics
+
+For each of the following languages, briefly answer the following:
+
+* What are the advantages and disadvantages of this language versus R?
+
+* What types of jobs ask for this skill?  (Hint: Try searching indeed.com or similar)
+
+* In what classes (if any) is this language taught at Cal Poly?
+
+#### SAS
+
+#### Python
+
+#### Excel
+
+#### SPSS
+
+### More about R
+
+* What is the "R Core"?
+
+* Who is the Chief Scientist at RStudio?
+
+* What is a "package" in R?
+
+* What is the "tidyverse"?
